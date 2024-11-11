@@ -14,5 +14,21 @@
             }
         ],
         "needs": []
+    },
+    "mahum": {
+        "username": "mahum",
+        "password": "1",
+        "email": "mairamasroor05@gmail.com",
+        "listings": [
+            {
+                "contact": "mairamasroor05@gmail.com",
+                "category": "Product",
+                "product name": "Goat cheese",
+                "location": "abu dhabi",
+                "description": "cheese of goat",
+                "image_url": "/static/images/Weekly_infographic_01_3.png"
+            }
+        ],
+        "needs": []
     }
 }
